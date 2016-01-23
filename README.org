@@ -1,2 +1,10 @@
 ratchet-practice
 * following along in http://socketo.me/docs/hello-world
+
+* 
+
+#+BEGIN_SRC 
+# create composer.json from recomended example from http://socketo.me/docs/hello-world
+composer install
+echo vendor/ >.gitignore
+#+END_SRC
